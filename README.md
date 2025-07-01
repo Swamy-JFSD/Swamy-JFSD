@@ -1,9 +1,7 @@
 ## 👋 About Me
 
-Hi there! 👋  
-I'm a B.Tech ECE graduate with hands-on experience in Java Full Stack Web Development.  
-I love developing scalable and maintainable web applications using modern backend frameworks and simple, responsive frontend technologies.  
-I'm passionate about backend development and enjoy solving real-world problems with code.
+Hi there! 🙌
+I’m a B.Tech graduate in Electronics and Communication Engineering with hands-on experience in Java Full Stack Web Development. I enjoy developing scalable and maintainable web applications using modern backend frameworks and responsive frontend technologies. I’m passionate about backend development and love solving real-world problems through clean and efficient code.
 
 ---
 
