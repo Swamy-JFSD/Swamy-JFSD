@@ -9,7 +9,6 @@ I'm passionate about backend development and enjoy solving real-world problems w
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swamy-m-k/)
-## 🌐 Socials:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/Swamy-JFSD)
 
 
